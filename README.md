@@ -1,3 +1,29 @@
+# suna
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+Kortix CompanyOS：面向公司的开源操作系统，支持多人 AI Agent、公司即代码与自有基础设施部署。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 <picture>
